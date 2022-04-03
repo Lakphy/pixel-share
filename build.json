@@ -1,0 +1,8 @@
+{
+    "targets": [
+        "web"
+    ],
+    "webpack5": true,
+    "plugins": [],
+    "publicPath": "https://lakphy.me/pixel/"
+}

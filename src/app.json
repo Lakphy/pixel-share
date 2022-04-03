@@ -1,0 +1,12 @@
+{
+    "routes": [{
+        "path": "/",
+        "source": "pages/Home/index"
+    }],
+    "window": {
+        "title": "Pixel-Share"
+    },
+    "metas": [
+        "<meta name=\"viewport\" content=\"width=device-width, viewport-fit=cover\">"
+    ]
+}

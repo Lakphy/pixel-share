@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "Product Sans Regular";
+    src: url("Product Sans Regular.eot"); /* IE9 */
+    src: url("Product Sans Regular.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    
+    url("Product Sans Regular.woff") format("woff"), /* chrome、firefox */
+    url("Product Sans Regular.ttf") format("truetype"), /* chrome、firefox、opera、Safari, Android, iOS 4.2+ */
+    
+    url("Product Sans Regular.svg#Product Sans Regular") format("svg"); /* iOS 4.1- */
+    font-style: normal;
+    font-weight: normal;
+}
+
+
