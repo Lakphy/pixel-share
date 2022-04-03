@@ -18,6 +18,9 @@ export default function Notice(props: { show: boolean; text: string; onConfirm: 
           e.target.select();
           document.execCommand('copy');
         }}
+        onInput={(e) => {
+          e.target.value = inputs;
+        }}
       />
       <View className="control-btn" onClick={onConfirm}>
         OK

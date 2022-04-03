@@ -240,6 +240,16 @@ export default function Home() {
             );
           })}
         </View>
+        <View className="author">
+          <p>
+            Designed and Developed by{' '}
+            <b>
+              <a className="name" href="https://lakphy.me">
+                Lakphy
+              </a>
+            </b>
+          </p>
+        </View>
       </View>
     </>
   );
